@@ -17,11 +17,11 @@ void randomize_board(int* board, uint8_t length, unsigned moves) {
   // Your code here!
 }
 
-void show_board(int* board, uint8_t length, seesaw_NeoPixel& strip) {
-  // Your code here!
-}
-
 bool is_solved(int* board, uint8_t length) {
   // Your code here!
   return false;
+}
+
+void show_board(int* board, uint8_t length, seesaw_NeoPixel& strip) {
+  // Your code here!
 }
