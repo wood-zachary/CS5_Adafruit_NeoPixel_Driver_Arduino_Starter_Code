@@ -9,7 +9,7 @@ Arduino sketch to drive NeoPixel LEDs and play 1D Lights Out using the Adafruit_
 
 ## Installation
 1. Clone the repository to your local system.
-2. Under additional board managers URLs, add https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json.
+2. Under additional board managers URLs, add `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`.
 3. Install the necessary libraries.
 
 ## Usage
