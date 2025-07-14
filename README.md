@@ -1,6 +1,6 @@
 # CS5 Adafruit NeoPixel Driver (Arduino)
 
-Basic Arduino sketch to drive NeoPixel LEDs and play 1D Lights Out using the Adafruit_NeoPixel library.
+Arduino sketch to drive NeoPixel LEDs and play 1D Lights Out using the Adafruit_NeoPixel library.
 
 ## Tested Setup
 - Arduino QT2040
