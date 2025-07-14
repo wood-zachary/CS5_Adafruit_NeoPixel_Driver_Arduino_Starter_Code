@@ -3,7 +3,7 @@
 Arduino sketch to drive NeoPixel LEDs and play 1D Lights Out using the Adafruit_NeoPixel library.
 
 ## Tested Setup
-- Arduino QT2040
+- Adafruit QT2040 Trinkey
 - Adafruit NeoDriver Board
 - SK6812 RGBW LEDs
 
